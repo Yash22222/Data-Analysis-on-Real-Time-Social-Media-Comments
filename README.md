@@ -19,26 +19,3 @@ To run this project, you need to have Python installed. You can install the requ
 pip install -r requirements.txt
 bash
 
-## Usage
-Clone the repository:
-
-```bash
-git clone https://github.com/Yash22222/Data-Analysis-on-Real-Time-Social-Media-Comments.git
-bash
-
-Navigate to the project directory:
-```bash
-
-cd EngageInsight
-bash
-Run the Jupyter Notebook or Python script to analyze the dataset and generate visualizations:
-```bash
-
-jupyter notebook DA_RT_SMD.ipynb
-bash
-
-## Contributing
-Contributions are welcome! Please open an issue or create a pull request if you have suggestions or improvements.
-
-## License
-This project is licensed under the [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT).
