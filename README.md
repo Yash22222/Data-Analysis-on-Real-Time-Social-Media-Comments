@@ -1,5 +1,4 @@
 
-```markdown
 # Data-Analysis-on-Real-Time-Social-Media-Comments
 
 ## Overview
@@ -46,6 +45,8 @@ Contributions are welcome! Please open an issue or create a pull request if you 
 
 ## License
 
-This project is licensed under the [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)..
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 ```
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT).
 
