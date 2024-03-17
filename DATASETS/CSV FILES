@@ -1,1 +1,2 @@
-
+The dataset consists of comments and replies, including raw and processed versions. It also contains metadata such as comment length. 
+This data is cleaned and analyzed to understand user engagement patterns, with insights visualized using Python libraries like Pandas and Matplotlib.
