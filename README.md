@@ -1,5 +1,4 @@
 
-
 # Data-Analysis-on-Real-Time-Social-Media-Comments
 
 ## Overview
@@ -49,3 +48,4 @@ Contributions are welcome! Please open an issue or create a pull request if you 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 ```
 
+This README provides clear instructions for installation, usage, contributing, and licensing, with properly formatted command code blocks. Feel free to use this as a template for your project!
