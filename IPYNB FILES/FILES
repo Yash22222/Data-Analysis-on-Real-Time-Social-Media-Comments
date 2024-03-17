@@ -1,1 +1,15 @@
+Project Name: EngageInsight
 
+Description:
+EngageInsight is a data visualization project focused on analyzing user interactions within a dataset of comments and replies. 
+The project involves cleaning and preprocessing the dataset to remove duplicates and handle missing values. 
+It then utilizes Python libraries such as Pandas, Matplotlib, and Seaborn to create insightful visualizations. 
+The visualizations provide an overview of comment lengths, the frequency of different types of replies, and trends over time. 
+The goal is to gain valuable insights into user engagement and interaction patterns from the dataset.
+
+Key Features:
+
+1. Data cleaning and preprocessing
+2. Creation of informative visualizations using Python libraries
+3. Analysis of user engagement and interaction patterns
+4. GitHub repository for version control and collaboration
