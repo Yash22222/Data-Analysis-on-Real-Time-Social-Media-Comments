@@ -44,9 +44,10 @@ jupyter notebook DA_RT_SMD.ipynb
 Contributions are welcome! Please open an issue or create a pull request if you have suggestions or improvements.
 
 ## License
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT).
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 ```
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT).
+
 
