@@ -1,4 +1,5 @@
 
+
 # Data-Analysis-on-Real-Time-Social-Media-Comments
 
 ## Overview
@@ -45,9 +46,6 @@ Contributions are welcome! Please open an issue or create a pull request if you 
 
 ## License
 
-
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 ```
-
-
 
