@@ -18,7 +18,7 @@ To run this project, you need to have Python installed. You can install the requ
 ```bash
 pip install -r requirements.txt
 
-Usage
+## Usage
 Clone the repository:
 bash
 
@@ -31,8 +31,8 @@ Run the Jupyter Notebook or Python script to analyze the dataset and generate vi
 bash
 
 jupyter notebook DA_RT_SMD.ipynb
-Contributing
+## Contributing
 Contributions are welcome! Please open an issue or create a pull request if you have suggestions or improvements.
 
-License
+## License
 This project is licensed under the [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT).
